@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **React, NodeJS, TypeScript, GraphQL, MongoDB**
 
 - 📫 How to reach me **dev.seoyoung.hwang@gmail.com**
+- 📫 Check out my portfolio **https://seoyounghwang.github.io/seoyoung-portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
