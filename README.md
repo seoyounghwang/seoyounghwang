@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Seoyoung Hwang</h1>
+<h1 align="center">Hi 👋, I'm Seoyoung Hwang. I'm a Full-Stack Developer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seoyounghwang&label=Profile%20views&color=0e75b6&style=flat" alt="seoyounghwang" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seoyounghwang" alt="seoyounghwang" /></a> </p>
 
-- 🌱 I’m currently learning **React, JS, Java**
+- 🌱 I’m currently learning **React, NodeJS, TypeScript, GraphQL, MongoDB**
 
 - 📫 How to reach me **dev.seoyoung.hwang@gmail.com**
 
